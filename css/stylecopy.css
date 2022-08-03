@@ -1,3 +1,9 @@
-
+.color-custom {
+  background-color: #316092;
+}
+.color-custom .flex {
+  display: flex;
+  justify-content: flex-end;
+}
 
 /*# sourceMappingURL=stylecopy.css.map */

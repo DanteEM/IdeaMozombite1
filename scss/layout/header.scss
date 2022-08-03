@@ -1,0 +1,16 @@
+.color-custom {
+    background-color: $coloPrincipal;
+
+    .flex {
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+}
+.active{
+    transition: all 0.5s;
+    &:hover{
+        transform: scale(1.3);
+    }
+    
+}

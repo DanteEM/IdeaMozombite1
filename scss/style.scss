@@ -1,9 +1,7 @@
-.color-custom {
-    background-color: #316092;
+@import "./utilities/variable.scss";
+@import "./layout/header.scss";
+@import "./layout/main.scss";
+@import "./layout/footer.scss";
 
-    .flex {
-        display: flex;
-        justify-content: flex-end;
-    }
-    
-}
+
+

@@ -1,0 +1,31 @@
+.titulares {
+    margin-top: 100px;
+
+    h1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding: 50px;
+        color: map-get($map: $paleta, $key: "colorSecundario");
+        text-align: center;
+        background-color: $coloPrincipal;
+    }
+
+    .pruebalo {
+        font-size: 30px;
+        text-align: center;
+        font-style: inherit;
+        margin: 50px;
+    }
+
+}
+.pregunta {
+    background-color: rgba(127, 127, 127, 0.635);
+    margin-top: 24px;
+    padding: 10px;
+}
+
+.respuesta {
+    @include textosRespuestas
+}
+h3{
+    @extend .pruebalo;
+}

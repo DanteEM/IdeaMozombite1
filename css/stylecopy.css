@@ -11,21 +11,34 @@
 }
 .active:hover {
   transform: scale(1.3);
+  color: orange;
 }
 
-.sobreNosotros {
+.titulares {
   margin-top: 100px;
 }
-.sobreNosotros h1 {
-  font-style: oblique;
+.titulares h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   padding: 50px;
   color: white;
   text-align: center;
   background-color: #316092;
 }
-.sobreNosotros p {
+.titulares .pruebalo, .titulares h3 {
   font-size: 30px;
   text-align: center;
+  font-style: inherit;
+  margin: 50px;
+}
+
+.pregunta {
+  background-color: rgba(127, 127, 127, 0.635);
+  margin-top: 24px;
+  padding: 10px;
+}
+
+.respuesta {
+  font-size: 30px;
   font-style: inherit;
 }
 

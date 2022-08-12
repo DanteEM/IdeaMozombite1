@@ -44,6 +44,7 @@ body .slide img {
   height: 65vh;
 }
 body .tituloX {
+  text-align: center;
   margin-top: 150px;
   font-size: 50px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;

@@ -1,7 +1,7 @@
 {
-  "name": "demostracion-boostrap",
+  "name": "paginaMozombite",
   "version": "1.0.0",
-  "description": "",
+  "description": "pagina web del futuro mejor software de edicion",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -122,4 +122,10 @@ input, textarea {
   font-style: inherit;
 }
 
+@media (max-width: 300px) {
+  .facilDeUsar {
+    margin-top: 1000px;
+  }
+}
+
 /*# sourceMappingURL=stylecopy.css.map */

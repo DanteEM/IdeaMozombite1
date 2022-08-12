@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DanteEM/IdeaMozombite1/issues"
   },
-  "homepage": "https://github.com/DanteEM/IdeaMozombite1#readme"
+  "homepage": "https://github.com/DanteEM/IdeaMozombite1#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }

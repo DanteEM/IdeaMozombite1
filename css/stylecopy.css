@@ -27,6 +27,7 @@ body .flex {
 body .encabezados {
   font-size: 100px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
 }
 body .icono {
   transition: all 1.3s;
